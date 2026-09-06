@@ -24,3 +24,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+contracts/lib/
+contracts/out/
+contracts/cache/
+
